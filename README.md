@@ -71,7 +71,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 
     🔗 Deploy Panda Userbot Heroku 🔗
 
-<p align="center"><a href="https://github.com/ilhammansiz/DEPLOY"><img src="https://img.shields.io/badge/Deploy%20Lewat%20Web%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"" /></a></p>
+<p align="center"><a href="https://github.com/Bebyaku/PandaX_Userbot"><img src="https://img.shields.io/badge/Deploy%20Lewat%20Web%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"" /></a></p>
 
 <p align="center"><a href="https://t.me/PandaUserbot"><img src="https://img.shields.io/badge/Deploy%20Lewat%20Bot%20Telegram%3F-Heroku-blueviolet?&style=flat-square?&logo=telegram" width="200"" /></a></p>
 
